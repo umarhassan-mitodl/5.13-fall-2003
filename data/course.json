@@ -1,0 +1,46 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ]
+  ],
+  "legacy_uid": "4af933b3-6131-c6b5-d887-94f5830fe9eb",
+  "instructors": {
+    "content": [
+      "927c0e83-0726-2a13-457c-231aa647d35e",
+      "5ca327ff-52bf-a484-f029-bd93d9c03b57"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ee5e9d21-3b89-c7e3-8f1e-e8c5fb9e9aef",
+    "website": "5-13-organic-chemistry-ii-fall-2003"
+  },
+  "course_title": "Organic Chemistry II",
+  "course_description": "This intermediate organic chemistry course focuses on the methods used to identify the structure of organic molecules, advanced principles of organic stereochemistry, organic reaction mechanisms, and methods used for the synthesis of organic compounds. Additional special topics include illustrating the role of organic chemistry in biology, medicine, and industry.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.13",
+  "course_image_thumbnail": {
+    "content": "b47a4e0f-0007-2f8e-8934-7a92f8de8b7e",
+    "website": "5-13-organic-chemistry-ii-fall-2003"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "a437167d-3ebd-48c9-b34b-7cfe9504535e",
+  "site_short_id": "5.13-fall-2003",
+  "site_url_path": "courses/5-13-organic-chemistry-ii-fall-2003",
+  "title": "Course Metadata"
+}
