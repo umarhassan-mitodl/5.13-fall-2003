@@ -5,6 +5,8 @@ description: Assignment and Study Guide for Unit I of the course. Topics include
 file: /courses/5-13-organic-chemistry-ii-fall-2003/c6fe40cdadfb1733da5045528cf44e9f_unit1_study_gd.pdf
 file_size: 52887
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

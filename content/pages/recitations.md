@@ -3,6 +3,8 @@ content_type: page
 description: This section provides information on the course recitations, drill problems
   for review and discussion during the recitation sections, and solutions to the drill
   problems.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection

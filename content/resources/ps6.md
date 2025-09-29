@@ -4,6 +4,8 @@ description: Problem set on mechanisms for transformations, and selective reacti
 file: /courses/5-13-organic-chemistry-ii-fall-2003/5d72bb94e9753d92c2625396b7894493_ps6.pdf
 file_size: 84342
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

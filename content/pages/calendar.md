@@ -2,6 +2,8 @@
 content_type: page
 description: The calendar provides the schedule of lecture and recitation sessions,
   assignment due dates, and information on lecture topics.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

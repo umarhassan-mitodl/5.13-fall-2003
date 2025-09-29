@@ -5,6 +5,8 @@ description: Assignment and Study Guide for Unit III of the course. Topics inclu
 file: /courses/5-13-organic-chemistry-ii-fall-2003/431e68d1b2d2a4fea70b83cb7da7e104_unit3_study_gd.pdf
 file_size: 57413
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

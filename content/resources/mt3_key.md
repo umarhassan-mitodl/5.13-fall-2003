@@ -4,6 +4,8 @@ description: Solutions to an exam on organic chemistry.
 file: /courses/5-13-organic-chemistry-ii-fall-2003/91df1a58fae2dc923a9a3db2c78e1f52_mt3_key.pdf
 file_size: 188716
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

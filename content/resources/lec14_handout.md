@@ -5,6 +5,8 @@ description: Lecture notes on pericyclic reactions, electrocyclic processes, Die
 file: /courses/5-13-organic-chemistry-ii-fall-2003/1e891b9e3def0dbed48105ab7e9dd6f0_lec14_handout.pdf
 file_size: 76521
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

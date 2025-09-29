@@ -5,6 +5,8 @@ description: Outline and Study Guide for Unit VII of the course. Topics include 
 file: /courses/5-13-organic-chemistry-ii-fall-2003/ba51bd2a948bf3adb9c98ad7f0aef9d7_sg_vii.pdf
 file_size: 90473
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -24,6 +24,7 @@
     "website": "5-13-organic-chemistry-ii-fall-2003"
   },
   "course_title": "Organic Chemistry II",
+  "hide_download": true,
   "course_description": "This intermediate organic chemistry course focuses on the methods used to identify the structure of organic molecules, advanced principles of organic stereochemistry, organic reaction mechanisms, and methods used for the synthesis of organic compounds. Additional special topics include illustrating the role of organic chemistry in biology, medicine, and industry.\n",
   "department_numbers": [
     "5"
@@ -34,6 +35,7 @@
     "content": "b47a4e0f-0007-2f8e-8934-7a92f8de8b7e",
     "website": "5-13-organic-chemistry-ii-fall-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",

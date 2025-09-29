@@ -4,6 +4,8 @@ description: Recitation problems prepared by Neal Mankad.
 file: /courses/5-13-organic-chemistry-ii-fall-2003/8723592fd2d25b387e3ea6b369ba97f7_drill_set2.pdf
 file_size: 109970
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Solutions to the carbocations problem solving exercise.
 file: /courses/5-13-organic-chemistry-ii-fall-2003/0982868d4a4543dd5b3a48e7db1e7bee_prob_sol_ses_key.pdf
 file_size: 109714
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

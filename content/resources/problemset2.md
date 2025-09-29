@@ -4,6 +4,8 @@ description: Problem set with problems assigned from the course textbook.
 file: /courses/5-13-organic-chemistry-ii-fall-2003/ad92ab2aa186dd6be84ca9fd5d2c40ed_problemset2.pdf
 file_size: 23617
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

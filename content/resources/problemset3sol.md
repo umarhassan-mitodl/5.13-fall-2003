@@ -5,6 +5,8 @@ description: Solutions to a problem set on molecular orbital theory and pericycl
 file: /courses/5-13-organic-chemistry-ii-fall-2003/87d96d7295f85a4711fffeb712f89aa5_problemset3sol.pdf
 file_size: 86836
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

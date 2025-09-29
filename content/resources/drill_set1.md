@@ -5,6 +5,8 @@ description: Recitation problems and review on organic structure elucidation, pr
 file: /courses/5-13-organic-chemistry-ii-fall-2003/b8f2e73be31be0be6588fd89a71509c9_drill_set1.pdf
 file_size: 522629
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

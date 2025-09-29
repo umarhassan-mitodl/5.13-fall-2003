@@ -4,6 +4,8 @@ description: Recitation session problems.
 file: /courses/5-13-organic-chemistry-ii-fall-2003/cfce56d31909843cff5a7d69d4af74b8_drill_set9.pdf
 file_size: 68958
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

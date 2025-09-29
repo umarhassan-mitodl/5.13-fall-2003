@@ -4,6 +4,8 @@ description: Recitation session problems and solutions prepared by Forrest Arp.
 file: /courses/5-13-organic-chemistry-ii-fall-2003/384307d95c1ee939d246cb9ceed50954_drill_set6_sol.pdf
 file_size: 99541
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

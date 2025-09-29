@@ -4,6 +4,8 @@ description: Lecture notes on organic structure determination.
 file: /courses/5-13-organic-chemistry-ii-fall-2003/3f7a5fdcbce88e173a60c454c89c59a6_lec8_handout.pdf
 file_size: 455245
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

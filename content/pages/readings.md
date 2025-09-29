@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on readings assigned from the course
   text.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

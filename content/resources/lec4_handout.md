@@ -5,6 +5,8 @@ description: Lecture notes on infrared spectroscopy, MS fragmentation patterns, 
 file: /courses/5-13-organic-chemistry-ii-fall-2003/32bb4ece2a16b9f8e17d195784d1932f_lec4_handout.pdf
 file_size: 63625
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

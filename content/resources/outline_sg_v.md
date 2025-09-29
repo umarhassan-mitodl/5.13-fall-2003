@@ -5,6 +5,8 @@ description: Outline and study guide for Unit V of the course. Topics include ca
 file: /courses/5-13-organic-chemistry-ii-fall-2003/ca016d97ac06ccf746484dc89c790340_outline_sg_v.pdf
 file_size: 90712
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

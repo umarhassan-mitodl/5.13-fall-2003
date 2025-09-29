@@ -5,6 +5,8 @@ description: Lecture notes on nuclear magnetic resonance (NMR) spectroscopy and 
 file: /courses/5-13-organic-chemistry-ii-fall-2003/0f2a84ef3036ece17dcdc65922785f5f_lec5_handout.pdf
 file_size: 55005
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

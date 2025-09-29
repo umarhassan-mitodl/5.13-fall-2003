@@ -4,6 +4,8 @@ description: Problem set on organic structure determination.
 file: /courses/5-13-organic-chemistry-ii-fall-2003/16712afa24368e8340cc0318fb23c996_problemset1.pdf
 file_size: 61432
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

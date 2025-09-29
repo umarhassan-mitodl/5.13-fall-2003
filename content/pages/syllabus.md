@@ -2,6 +2,8 @@
 content_type: page
 description: The syllabus section provides a course overview and information on course
   meeting times, textbooks, problem sets, exams, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -32,7 +34,7 @@ Wade, L. G. _Organic Chemistry_. 5th ed. New Jersey: Prentice Hall/Pearson Educa
 Molecular Models
 ----------------
 
-Several units in 5.13 will emphasize many stereochemical aspects of organic reactions and molecules. To help you visualize stereochemical concepts, we recommend that you purchase the Darling {{% resource_link "ffbcc98d-3ea2-4883-829b-4e6ce19a844a" "Molecular Visions" %}}{{< sup "TM" >}} Molecular Model Kit. Note that you will be permitted to bring model sets to the hour exams and the final.
+Several units in 5.13 will emphasize many stereochemical aspects of organic reactions and molecules. To help you visualize stereochemical concepts, we recommend that you purchase the Darling [Molecular Visions](http://www.darlingmodels.com/){{< sup "TM" >}} Molecular Model Kit. Note that you will be permitted to bring model sets to the hour exams and the final.
 
 Problem Sets
 ------------
